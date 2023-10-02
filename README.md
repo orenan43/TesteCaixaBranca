@@ -6,7 +6,6 @@ ETAPA 2 - Critérios de Caixa Branca - (Grafo de Fluxo; Complexidade Ciclomátic
 3. Ponto de saída: Final do método `conectarBD()`
 4. Ponto de saída: Final do método `verificarUsuario(login, senha)`
 
-Grafo de Fluxo:
 ![GrafoDeFluxo](https://github.com/orenan43/TesteCaixaBranca/assets/113802691/6f194808-76f6-4ecd-973a-a0d297483c03)
 
 Número de nós (n): 4
